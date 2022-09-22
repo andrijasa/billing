@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544899035217",
+    "firebase_url": "https://billing-b3594.firebaseio.com",
+    "project_id": "billing-b3594",
+    "storage_bucket": "billing-b3594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544899035217:android:57202f3a859756f5610870",
+        "android_client_info": {
+          "package_name": "com.hantubanyu.billing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544899035217-fhuote2cqkhb29sc6b2qqkpf6nasgblo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hantubanyu.billing",
+            "certificate_hash": "4978fc482fec0d6d4974442f08dd868780ba3efb"
+          }
+        },
+        {
+          "client_id": "544899035217-no52kgvdh9et54tg6rr39648k3kko43m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAppZZtzn-G863L0z_V4CgypJzhih4thJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544899035217-no52kgvdh9et54tg6rr39648k3kko43m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

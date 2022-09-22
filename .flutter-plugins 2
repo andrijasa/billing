@@ -1,0 +1,15 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore-0.13.5\\
+cloud_firestore_web=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\cloud_firestore_web-0.1.1+2\\
+firebase_core=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core-0.4.4+3\\
+firebase_core_web=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_core_web-0.1.1+2\\
+firebase_storage=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\firebase_storage-3.1.6\\
+multi_image_picker=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\multi_image_picker-4.6.7\\
+open_file=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\open_file-3.0.1\\
+path_provider=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider-1.6.10\\
+path_provider_linux=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_linux-0.0.1+1\\
+path_provider_macos=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\path_provider_macos-0.0.4+3\\
+printing=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\printing-3.4.0\\
+shared_preferences=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences-0.5.7+2\\
+shared_preferences_macos=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_macos-0.0.1+8\\
+shared_preferences_web=C:\\src\\flutter_windows_v1.15.17-beta\\.pub-cache\\hosted\\pub.dartlang.org\\shared_preferences_web-0.1.2+5\\
